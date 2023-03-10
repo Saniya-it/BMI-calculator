@@ -52,4 +52,8 @@ class ViewController: UIViewController {
     }
 
 
+struct test {
+    var test: Int
+}
+
 
